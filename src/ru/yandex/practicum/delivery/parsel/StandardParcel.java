@@ -15,8 +15,4 @@ public class StandardParcel extends Parcel {
     public String getType() {
         return ParcelType.STANDARD.name();
     }
-
-
-
-
 }
